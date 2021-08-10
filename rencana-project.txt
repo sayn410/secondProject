@@ -12,3 +12,7 @@ belajar frond end
 belajar back end
 -javascript
 - PHP
+
+
+belajar database
+- phpmysql
