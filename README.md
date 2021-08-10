@@ -1,2 +1,2 @@
 # secondProject
-kolaorasi github yang kedua
+kolaborasi github yang kedua
