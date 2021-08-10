@@ -2,9 +2,17 @@ mampu memahami  github
 mampu kolaborasi dengan master master github
 berkolabarsi lebih dari dua user
 
-belajar front end
-- css3
+materi belajar 
+
+belajar frond end
+- html
+- css
 
 
-belajar backend framework
--codeignaiter
+belajar back end
+-javascript
+- PHP
+
+
+belajar database
+- phpmysql
