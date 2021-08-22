@@ -32,10 +32,35 @@ ul li a{
 }
 
 
-.container .row .col-md-3 h5{
+.container .row .col-md-3 h4{
+    color:white;
+    border-radius: 25px;
     border: 1px solid  black;
-    margin: 1px;
-    padding: 2px;
+    margin: 5px;
+      padding: 10px 5px;
     text-align: center;
     background: black;
+}
+.container .row h3{
+    left: 0;
+    right: 0;
+    background: white;
+    color: black;
+    padding: 10px;
+}
+/* credit css */
+.container .row .col-md-8 .row .col-md-4 i{
+    
+}
+
+/* top footer */
+.container .row .col-md-4 #top-footer{
+    height: 50px;
+  
+    text-align: center;
+    line-height:50px;
+    color:white;
+  margin-top: 20px;
+    background-color: red;
+
 }
