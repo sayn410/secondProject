@@ -1,0 +1,19 @@
+    .col-md-3 ul li {
+        list-style: none;
+    }
+
+    .col-md-3 ul li a {
+        color: #111;
+    }
+
+    #pesanan-link li {
+        list-style: none;
+        display: inline-block;
+    }
+
+    #pesanan-link li a {
+        padding: 5px 5px;
+        color: #fff;
+    }
+
+  
