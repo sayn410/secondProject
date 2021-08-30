@@ -1,0 +1,72 @@
+.navbar{
+margin-bottom: -50px;
+}
+#carausel{
+margin-top: 2px;
+}
+.col-md-4{
+
+}
+.col-md-4 h4{
+border: 1px solid black;
+margin: 10px 2px;
+border-radius: 25px;
+padding: 10px;
+text-align: center;
+
+
+}
+.cat-link li{
+margin: 0;
+list-style: none;
+padding: 2px;
+padding-left: 0px;
+}
+.cat-link li a{
+text-decoration: none;
+color: black;
+
+
+}
+.row .col-md-8 .pesanan-link ul li a{
+    color: green;
+    display: inline-block;
+}
+.container .row h5{
+
+}
+
+
+.container .row .col-md-3 h4{
+color:white;
+border-radius: 25px;
+border: 1px solid black;
+margin: 5px;
+padding: 10px 5px;
+text-align: center;
+background: black;
+}
+.container .row h3{
+left: 0;
+right: 0;
+background: white;
+color: black;
+padding: 10px;
+}
+/* credit css */
+.container .row .col-md-8 .row .col-md-4 i{
+
+}
+
+
+/* top footer */
+.container .row .col-md-4 #top-footer{
+height: 50px;
+
+text-align: center;
+line-height:50px;
+color:white;
+margin-top: 20px;
+background-color: red;
+
+}
